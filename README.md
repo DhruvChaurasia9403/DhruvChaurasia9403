@@ -1,8 +1,8 @@
 ## Hi there! 👋  
 
-I’m **Dhruv Chaurasia**, a passionate **Android & Flutter Developer** 🚀 with a knack for building scalable, real-time applications. Whether it’s crafting seamless UI/UX or optimizing performance, I love turning ideas into reality through **clean and efficient code.**  
+I’m **Dhruv Chaurasia**, an enthusiastic **Android & Flutter Developer** 🚀 with a passion for building scalable, real-time applications. I specialize in crafting intuitive UI/UX experiences and optimizing performance to transform ideas into reality through **clean, efficient, and maintainable code.**  
 
-### 🔹 Technologies I Work With  
+### 🔹 Technologies & Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  
@@ -20,17 +20,17 @@ I’m **Dhruv Chaurasia**, a passionate **Android & Flutter Developer** 🚀 wit
 
 ---
 
-### 🚀 Recent Projects  
+### 🚀 Featured Projects
 
-- **💬 [Talko](https://github.com/DhruvChaurasia9403/Talko):** A real-time chat app with AI integration, message ticks (single, double, blue double tick), video calling, and push notifications.
-- **🤖 [V.O.I.D](https://github.com/DhruvChaurasia9403/V.O.I.D.):** A Gemini-integrated chatbot built using BLoC architecture.
-- **🎥 [Streamers](https://github.com/DhruvChaurasia9403/Live-Streams):** An app to check live streaming URLs.
-- **🎨 [Widgets](https://github.com/DhruvChaurasia9403/widgets):** A showcase of various Flutter widgets for developers.
-- **🛠️ [Three_D](https://github.com/DhruvChaurasia9403/three_D):** A 3D modeling app built using Flutter, showcasing interactive 3D elements.
+- **💬 [Talko](https://github.com/DhruvChaurasia9403/Talko):** A real-time chat application with AI-powered features, message ticks (single, double, blue double tick), video calling, and push notifications.
+- **🤖 [V.O.I.D](https://github.com/DhruvChaurasia9403/V.O.I.D.):** A chatbot integrated with Gemini AI, developed using the BLoC architecture for efficient state management.
+- **🎥 [Streamers](https://github.com/DhruvChaurasia9403/Live-Streams):** An application for discovering and monitoring live streaming URLs.
+- **🎨 [Widgets](https://github.com/DhruvChaurasia9403/widgets):** A curated collection of Flutter widgets, designed to help developers explore and implement UI components effectively.
+- **🛠️ [Three_D](https://github.com/DhruvChaurasia9403/three_D):** A 3D modeling app built using Flutter, offering interactive and dynamic 3D visualizations.
 
 ---
 
-### 📊 My GitHub Stats  
+### 📊 GitHub Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvChaurasia9403&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvChaurasia9403&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvChaurasia9403&show_icons=true&theme=radical)  
@@ -38,6 +38,6 @@ I’m **Dhruv Chaurasia**, a passionate **Android & Flutter Developer** 🚀 wit
 
 ---
 
-### ☕ Support My Work  
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/yourusername)
+### ☕ Support My Work
+Love my work? Consider supporting me! Your contributions help me continue building amazing projects.  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/DhruvChaurasia9403)

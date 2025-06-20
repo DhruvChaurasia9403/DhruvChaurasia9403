@@ -3,10 +3,10 @@
 I’m **Dhruv Chaurasia**, an enthusiastic **Android & Flutter Developer** 🚀 with a passion for building scalable, real-time applications. I specialize in crafting intuitive UI/UX experiences and optimizing performance to transform ideas into reality through **clean, efficient, and maintainable code.**  
 
 ### 🔹 Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=for-the-badge)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
@@ -16,7 +16,8 @@ I’m **Dhruv Chaurasia**, an enthusiastic **Android & Flutter Developer** 🚀 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
 ![AI](https://img.shields.io/badge/-AI-007ACC?logo=openai&logoColor=white&style=for-the-badge)  
-![3D Modeling](https://img.shields.io/badge/-3D%20Modeling-FF5733?logo=three.js&logoColor=white&style=for-the-badge)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
+![3D Modeling](https://img.shields.io/badge/-3D%20Modeling-FF5733?logo=three.js&logoColor=white&style=for-the-badge) 
 
 ---
 

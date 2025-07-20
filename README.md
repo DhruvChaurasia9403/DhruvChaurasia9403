@@ -1,7 +1,7 @@
 ## Hi there! 👋  
 
-Hi, I’m **Dhruv Chaurasia** — a passionate Android & **Flutter** artisan sculpting seamless, real-time digital experiences.
-I blend elegant design with performance-first engineering to craft fluid, scalable apps. With a sharp eye for detail and a love for clean, expressive code, I turn bold ideas into beautifully functional products.
+Hi, I’m **Dhruv Chaurasia** — a Software Developer artisan sculpting seamless, real-time digital experiences.
+I blend elegant design with performance-first engineering to craft fluid, scalable applications. With a sharp eye for detail and a love for clean, expressive code, I turn bold ideas into beautifully functional products.
 
  
 

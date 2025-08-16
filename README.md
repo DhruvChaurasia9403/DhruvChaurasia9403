@@ -8,6 +8,7 @@ I blend elegant design with performance-first engineering to craft fluid, scalab
 ### 🔹 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)  
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  

@@ -35,10 +35,10 @@ My expertise lies in:
 | ------- | ----------- | ---------- |
 | **[Talko](https://github.com/DhruvChaurasia9403/Talko)** | A **real-time communication platform** enabling instant messaging, WebRTC-powered video calls, and AI-driven features. Designed for **ultra-low latency** and **global scalability**. | Flutter · Dart · Firebase · WebRTC · Rust · BLoC |
 | **[V.O.I.D.](https://github.com/DhruvChaurasia9403/V.O.I.D.)** | An **AI-powered chatbot** integrated with the **Gemini AI API**, built on a **scalable BLoC architecture** to handle complex conversational flows. | Flutter · Dart · Firebase · Gemini AI · BLoC |
-| **[IdeaShare](https://github.com/DhruvChaurasia9403/IdeaShare)** | A **startup evaluation platform** with smooth animations, offline persistence, and a clean user experience. | Flutter · Dart · SQLite · BLoC · Rive |
-| **[StreamStreak](https://github.com/DhruvChaurasia9403/StreamStreak)** | A **live stream management app** with real-time backend sync and **Cloudinary-powered media uploads**. | Flutter · Dart · Firebase · Cloudinary |
+| **[IdeaShare Cross](https://github.com/DhruvChaurasia9403/Startup_Leaderboard)** | A **startup evaluation and collaboration platform** with smooth animations, offline persistence, and a clean user experience. | Flutter · Dart · SQLite · BLoC · Rive |
+| **[Stream Streaks](https://github.com/DhruvChaurasia9403/Stream-Streaks)** | A **live stream management app** with real-time backend sync and **Cloudinary-powered media uploads**. | Flutter · Dart · Firebase · Cloudinary |
 | **[Three_D](https://github.com/DhruvChaurasia9403/three_D)** | An **interactive 3D modeling app** showcasing dynamic rendering, object manipulation, and immersive UI design. | Flutter · Dart · Three.js |
-| **[XKCDMailer](https://github.com/DhruvChaurasia9403/XKCDMailer)** | A **lightweight, database-free automation system** delivering daily **XKCD comics** using CRON scheduling. | PHP · CRON · PHPMailer |
+| **[GenerateEmail](https://github.com/DhruvChaurasia9403/GenerateEmail)** | A **lightweight, database-free automation system** delivering daily **XKCD comics** using CRON scheduling. | PHP · CRON · PHPMailer |
 
 ---
 

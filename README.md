@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Dhruv+Chaurasia;Mobile+Systems+Engineer;Real-Time+Communication;Applied+AI+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Dhruv+Chaurasia;Software+Developer+Engineer;System+Design;Databases;Backend-Services" />
 
-Software Engineer — Mobile Systems • Real-Time Communication • Applied AI  
 Building production systems that operate under real constraints — connectivity, latency, and scale.
 
 </div>
@@ -11,7 +10,7 @@ Building production systems that operate under real constraints — connectivity
 
 ## What I Build
 
-I design end-to-end systems — mobile clients, backend intelligence engines, and real-time communication layers.
+I design end-to-end systems , backend intelligence engines, and real-time communication layers,including Mobile Applications.
 
 My recent work focuses on:
 

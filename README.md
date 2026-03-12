@@ -57,7 +57,8 @@ timeline
          : Spring Boot Expansion
          : Flask API Gateways
          : Render Production Deployments
-         : Valora starting 
+         : Valora starting
+         : Got a offer letter from 2 companies   
 ```
 ---
 
